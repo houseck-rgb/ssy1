@@ -1,0 +1,21 @@
+{
+  "name": "최우영스시야 홀 발주",
+  "short_name": "최우영스시야",
+  "start_url": "./?v=4",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+
+  "icons": [
+    {
+      "src": "./icon-v4.png?v=4",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-v4.png?v=4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
